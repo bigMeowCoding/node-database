@@ -33,4 +33,3 @@ async function del() {
         }
     });
 }
-del()
